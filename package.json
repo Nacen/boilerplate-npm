@@ -11,5 +11,13 @@
     "type": "git",
     "url": "https://idontknow/todo.git"
   },
-  "author": "Vincent Angelo Nadal"
+  "author": "Vincent Angelo Nadal",
+  "description": "FCC Challenge",
+  "keywords": [
+    "FCC",
+    "freecodecamp",
+    "Learning about NPM"
+  ],
+  "license": "MIT",
+  "version": "1.0.0"
 }
